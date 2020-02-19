@@ -7,6 +7,10 @@
 </head>
 <body>
     <h1>Contact Us</h1>
-    <p>Ini adalah halaman contact</p>
+    <hr>
+    <ul>
+        <li>Email : samuelmarcell21@gmail.com</li>
+        <li>WA : 0818216372</li>
+    </ul>
 </body>
 </html>
